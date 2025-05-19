@@ -52,7 +52,7 @@ A full-stack **Customer Relationship Management (CRM)** application built with *
 - Angular CLI
 - PostgreSQL installed and running
 
-### 🔧 Backend Setup
+
 ```bash
 cd CRM_backend
 npm install
